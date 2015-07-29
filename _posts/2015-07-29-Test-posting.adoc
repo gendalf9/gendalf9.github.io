@@ -1,2 +1,4 @@
 = Test posting
-Hello, world!
+
+
+* Hello, world!
